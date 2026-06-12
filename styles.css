@@ -87,6 +87,9 @@ h1 {
     filter: saturate(0.9)
 }
 
+#timer {
+  display: none;
+}
 .controls {
     display: flex;
     gap: 10px;
