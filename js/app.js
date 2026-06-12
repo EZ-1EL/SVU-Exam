@@ -1,7 +1,7 @@
 // Minimal quiz runtime that expects question banks on window
 
 // Timer (1 hour)
-let totalSeconds = 60 * 60;
+let totalSeconds = 1000 * 1000;
 let timerInterval;
 function startTimer() {
   clearInterval(timerInterval);
